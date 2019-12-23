@@ -1,6 +1,6 @@
-CREATE DATABASE cloudcomputingpage;
+CREATE DATABASE cloudcomputingpages;
 
-USE cloudcomputingpage;
+USE cloudcomputingpages;
 
 CREATE TABLE page (
   pageid bigint(20) UNSIGNED NOT NULL,
